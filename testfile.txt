@@ -2,5 +2,6 @@ This is demo,
 git add filename
 git status
 commit first your file b4 aploading to your github account
-git commit -m "message" filename
+git commit -m "message" filename.txt eg
 now you can be able to transfer your file to github account
+git push -u origin master
