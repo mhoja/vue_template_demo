@@ -1,0 +1,6 @@
+This is demo,
+git add filename
+git status
+commit first your file b4 aploading to your github account
+git commit -m "message" filename
+now you can be able to transfer your file to github account
